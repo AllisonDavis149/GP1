@@ -28,8 +28,6 @@ The database supports tracking of league activity, draft history, player perform
 <img width="780" height="647" alt="image" src="https://github.com/user-attachments/assets/b6e47247-5079-4857-9174-c31cee27ff83" />
 
 
-> **Note:** Replace `data_model.png` with your actual ER diagram image uploaded to this repo.
-
 ### Explanation of the Data Model
 
 **League** sits at the top of the hierarchy. A league has many **Teams**, but each Team belongs to exactly one League *(1:M)*. A league is identified by a unique `leagueID` and stores the season year.
