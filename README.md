@@ -414,9 +414,4 @@ ORDER BY WeeklyStats.pointsScored DESC;
 - Foreign key constraints are enforced to maintain referential integrity
 - The data model was designed to be scalable across multiple seasons by including `seasonYear` in the League table
 
-4610 Group Project 1
-# Scenario Description
 
-# Data Model
-# Data Dictionary
-# Queries
