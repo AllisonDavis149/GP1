@@ -1,7 +1,6 @@
-# 21479 Group 1
 # 🏈 Fantasy Football League Database
 
-## Team Name: 1
+## 21479 Group 1
 
 ### Team Members
 | Name | GitHub |
